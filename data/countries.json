@@ -1,0 +1,21 @@
+[
+  { "code": "HT", "name": "Haïti", "dial": "+509", "flag": "🇭🇹", "languages": ["fr"] },
+  { "code": "FR", "name": "France", "dial": "+33", "flag": "🇫🇷", "languages": ["fr"] },
+  { "code": "BE", "name": "Belgique", "dial": "+32", "flag": "🇧🇪", "languages": ["fr"] },
+  { "code": "CA", "name": "Canada", "dial": "+1", "flag": "🇨🇦", "languages": ["fr", "en"] },
+  { "code": "CH", "name": "Suisse", "dial": "+41", "flag": "🇨🇭", "languages": ["fr"] },
+  { "code": "SN", "name": "Sénégal", "dial": "+221", "flag": "🇸🇳", "languages": ["fr"] },
+  { "code": "CI", "name": "Côte d'Ivoire", "dial": "+225", "flag": "🇨🇮", "languages": ["fr"] },
+
+  { "code": "ES", "name": "Espagne", "dial": "+34", "flag": "🇪🇸", "languages": ["es"] },
+  { "code": "MX", "name": "Mexique", "dial": "+52", "flag": "🇲🇽", "languages": ["es"] },
+  { "code": "CO", "name": "Colombie", "dial": "+57", "flag": "🇨🇴", "languages": ["es"] },
+  { "code": "AR", "name": "Argentine", "dial": "+54", "flag": "🇦🇷", "languages": ["es"] },
+  { "code": "PE", "name": "Pérou", "dial": "+51", "flag": "🇵🇪", "languages": ["es"] },
+  { "code": "CL", "name": "Chili", "dial": "+56", "flag": "🇨🇱", "languages": ["es"] },
+
+  { "code": "US", "name": "États-Unis", "dial": "+1", "flag": "🇺🇸", "languages": ["en"] },
+  { "code": "GB", "name": "Royaume-Uni", "dial": "+44", "flag": "🇬🇧", "languages": ["en"] },
+  { "code": "JM", "name": "Jamaïque", "dial": "+1876", "flag": "🇯🇲", "languages": ["en"] },
+  { "code": "AU", "name": "Australie", "dial": "+61", "flag": "🇦🇺", "languages": ["en"] }
+]
