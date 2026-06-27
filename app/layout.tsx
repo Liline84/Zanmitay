@@ -6,8 +6,11 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 const display = Plus_Jakarta_Sans({ subsets: ['latin'], variable: '--font-display' });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'),
-  title: {
+const baseUrl =
+  process.env.NEXT_PUBLIC_APP_URL ?? 'http://localhost:3000';
+
+export const metadata: Metadata = {
+  metadataBase: new URL(baseUrl),  title: {
     default: 'Global Contact Sync — Connectez-vous au-dela des frontieres',
     template: '%s · Global Contact Sync',
   },
